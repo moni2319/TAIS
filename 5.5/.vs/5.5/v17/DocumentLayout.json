@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monic\\Documents\\TAIS\\5.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB26A33-C790-4944-B21A-C645C464ED0F}|5.5\\5.5.vcxproj|C:\\Users\\monic\\Documents\\TAIS\\5.5\\5.5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB26A33-C790-4944-B21A-C645C464ED0F}|5.5\\5.5.vcxproj|solutionrelative:5.5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB26A33-C790-4944-B21A-C645C464ED0F}|5.5\\5.5.vcxproj|C:\\Users\\monic\\Documents\\TAIS\\5.5\\5.5\\Digrafo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFB26A33-C790-4944-B21A-C645C464ED0F}|5.5\\5.5.vcxproj|solutionrelative:5.5\\Digrafo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB26A33-C790-4944-B21A-C645C464ED0F}|5.5\\5.5.vcxproj|C:\\Users\\monic\\Documents\\TAIS\\5.5\\5.5\\Texto.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DFB26A33-C790-4944-B21A-C645C464ED0F}|5.5\\5.5.vcxproj|solutionrelative:5.5\\Texto.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Texto.txt",
+              "DocumentMoniker": "C:\\Users\\monic\\Documents\\TAIS\\5.5\\5.5\\Texto.txt",
+              "RelativeDocumentMoniker": "5.5\\Texto.txt",
+              "ToolTip": "C:\\Users\\monic\\Documents\\TAIS\\5.5\\5.5\\Texto.txt",
+              "RelativeToolTip": "5.5\\Texto.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-16T10:47:54.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Digrafo.h",
+              "DocumentMoniker": "C:\\Users\\monic\\Documents\\TAIS\\5.5\\5.5\\Digrafo.h",
+              "RelativeDocumentMoniker": "5.5\\Digrafo.h",
+              "ToolTip": "C:\\Users\\monic\\Documents\\TAIS\\5.5\\5.5\\Digrafo.h",
+              "RelativeToolTip": "5.5\\Digrafo.h",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAwwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-16T10:47:49.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\monic\\Documents\\TAIS\\5.5\\5.5\\Source.cpp",
+              "RelativeDocumentMoniker": "5.5\\Source.cpp",
+              "ToolTip": "C:\\Users\\monic\\Documents\\TAIS\\5.5\\5.5\\Source.cpp",
+              "RelativeToolTip": "5.5\\Source.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T10:47:41.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monic\\Documents\\TAIS\\5.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B12B2A-5635-49C9-89B6-A5D9031E42BC}|5.1\\5.1.vcxproj|C:\\Users\\monic\\Documents\\TAIS\\5.1\\5.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8B12B2A-5635-49C9-89B6-A5D9031E42BC}|5.1\\5.1.vcxproj|solutionrelative:5.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B12B2A-5635-49C9-89B6-A5D9031E42BC}|5.1\\5.1.vcxproj|C:\\Users\\monic\\Documents\\TAIS\\5.1\\5.1\\Texto.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D8B12B2A-5635-49C9-89B6-A5D9031E42BC}|5.1\\5.1.vcxproj|solutionrelative:5.1\\Texto.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Texto.txt",
+              "DocumentMoniker": "C:\\Users\\monic\\Documents\\TAIS\\5.1\\5.1\\Texto.txt",
+              "RelativeDocumentMoniker": "5.1\\Texto.txt",
+              "ToolTip": "C:\\Users\\monic\\Documents\\TAIS\\5.1\\5.1\\Texto.txt",
+              "RelativeToolTip": "5.1\\Texto.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-14T07:46:53.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\monic\\Documents\\TAIS\\5.1\\5.1\\Source.cpp",
+              "RelativeDocumentMoniker": "5.1\\Source.cpp",
+              "ToolTip": "C:\\Users\\monic\\Documents\\TAIS\\5.1\\5.1\\Source.cpp",
+              "RelativeToolTip": "5.1\\Source.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T07:46:48.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

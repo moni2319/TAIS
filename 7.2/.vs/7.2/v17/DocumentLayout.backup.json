@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\7.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCB1F92-EA8E-4661-A306-C8E7572749BF}|7.2\\7.2.vcxproj|C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\7.2\\7.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CCB1F92-EA8E-4661-A306-C8E7572749BF}|7.2\\7.2.vcxproj|solutionrelative:7.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCB1F92-EA8E-4661-A306-C8E7572749BF}|7.2\\7.2.vcxproj|C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\7.2\\7.2\\Texto.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3CCB1F92-EA8E-4661-A306-C8E7572749BF}|7.2\\7.2.vcxproj|solutionrelative:7.2\\Texto.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Texto.txt",
+              "DocumentMoniker": "C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\7.2\\7.2\\Texto.txt",
+              "RelativeDocumentMoniker": "7.2\\Texto.txt",
+              "ToolTip": "C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\7.2\\7.2\\Texto.txt",
+              "RelativeToolTip": "7.2\\Texto.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-27T17:40:12.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\7.2\\7.2\\Source.cpp",
+              "RelativeDocumentMoniker": "7.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\7.2\\7.2\\Source.cpp",
+              "RelativeToolTip": "7.2\\Source.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-27T17:07:09.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
