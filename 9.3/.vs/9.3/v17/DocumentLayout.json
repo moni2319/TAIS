@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\9.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B5BB9E-E039-43A0-B46C-957DFBB36DBB}|9.3\\9.3.vcxproj|C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\9.3\\9.3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2B5BB9E-E039-43A0-B46C-957DFBB36DBB}|9.3\\9.3.vcxproj|solutionrelative:9.3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B5BB9E-E039-43A0-B46C-957DFBB36DBB}|9.3\\9.3.vcxproj|C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\9.3\\9.3\\Texto.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D2B5BB9E-E039-43A0-B46C-957DFBB36DBB}|9.3\\9.3.vcxproj|solutionrelative:9.3\\Texto.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 453,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Texto.txt",
+              "DocumentMoniker": "C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\9.3\\9.3\\Texto.txt",
+              "RelativeDocumentMoniker": "9.3\\Texto.txt",
+              "ToolTip": "C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\9.3\\9.3\\Texto.txt",
+              "RelativeToolTip": "9.3\\Texto.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-02T11:14:15.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\9.3\\9.3\\Source.cpp",
+              "RelativeDocumentMoniker": "9.3\\Source.cpp",
+              "ToolTip": "C:\\Users\\monic\\Documents\\UNIVERSIDAD\\TAIS\\9.3\\9.3\\Source.cpp",
+              "RelativeToolTip": "9.3\\Source.cpp",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv1oAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T11:14:11.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 384,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
